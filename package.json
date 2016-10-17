@@ -40,6 +40,6 @@
     "webpack": "^1.13.1"
   },
   "peerDependencies": {
-    "aframe": "^0.2.0"
+    "aframe": "^0.3.0"
   }
 }
